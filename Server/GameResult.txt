@@ -209,3 +209,6 @@ map.txt	Ð¡Íµ	WeAreOne	139	2000	2	2	2
 map.txt	Ð¡Íµ	WeAreOne	68	2000	1	1	2
 map.txt	Ð¡Íµ	WeAreOne	68	2000	1	1	2
 map.txt	Ð¡Íµ	WeAreOne	70	2000	1	1	2
+map.txt	Ð¡Íµ	¾¯²ì	45	2000	1	1	2
+map.txt	Ð¡Íµ	WeAreOne	71	2000	1	1	2
+map.txt	Ð¡Íµ	¾¯²ì	34	2000	1	1	2
